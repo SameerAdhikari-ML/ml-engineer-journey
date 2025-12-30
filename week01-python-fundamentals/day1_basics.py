@@ -544,8 +544,30 @@ print(calculator(10,5,'*'))
 # ============================================
 # YOUR COMPLETION STATS
 # ============================================
-# How many exercises completed? ___/35
-# Time taken: ___ hours
-# Hardest exercise: ___
-# What did you learn?
+# How many exercises completed? 35/35 ✅
+# Time taken: 2.5 hours
+# 
+# Hardest exercise: Challenge 5: Prime checker - took me a while to understand the logic
+# 
+# What did you learn today?
+# - I learned how to manipulate lists effectively with slicing
+# - I understood the logic behind palindrome checking using string reversal
+# - I learned that checking prime numbers requires testing divisors up to square root
+# 
+# What do you need to review?
+# - List comprehensions - I used them but want to understand them deeper
+ 
+# Struggles today:
+# - The prime checker took me 20 minutes to debug
+# - FizzBuzz logic was confusing at first (loop vs single check)
+# 
+# Wins today:
+# - Completed ALL 35 exercises on my own!
+# - My code was clean and mostly bug-free
+# - Fixed all 3 bugs quickly after review
+# 
+# Tomorrow's goals:
+# - Deep dive into OOP concepts
+# - Watch Corey Schafer's OOP videos
+# - Solve 5 HackerRank problems
 # ============================================
