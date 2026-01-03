@@ -190,10 +190,10 @@ print(apply_operation([1, 2, 3, 4], lambda x: x ** 2))
 # COMPLETION STATS
 # ============================================
 # Exercises completed: 12/12 ✅
-# Time taken: [How long did it take? e.g., "1.5 hours"]
-# Hardest exercise: [Which one? e.g., "Decorators" or "None, all were clear"]
+# Time taken: 20-30 min
+# Hardest exercise: "None, all were clear"
 # What I learned: 
-# - [e.g., "Lambda functions make code concise"]
-# - [e.g., "*args lets you pass unlimited arguments"]
-# - [e.g., "Decorators wrap functions to add functionality"]
+# - How to use *args and **kwargs for flexible function arguments.
+# - Creating and using lambda functions for concise operations.
+# - Writing decorators to modify function behavior.
 # ============================================
